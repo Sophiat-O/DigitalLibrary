@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="digiLib.DigitalLibGUI">
+  <grid id="27dc6" binding="homeScreen" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="40" y="20" width="676" height="424"/>
+    </constraints>
+    <properties>
+      <background color="-924484"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="6ab73" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="5" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <icon value="libraryImage/Madeleine Leroy.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="92bdc" class="javax.swing.JButton" binding="loginButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="AppleGothic" size="10" style="0"/>
+          <text value="Login"/>
+        </properties>
+      </component>
+      <component id="41eba" class="javax.swing.JButton" binding="subscribeButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="AppleGothic" size="10" style="0"/>
+          <text value="Subscribe"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

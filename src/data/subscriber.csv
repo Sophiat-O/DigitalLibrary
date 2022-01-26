@@ -1,0 +1,6 @@
+id,FName,LName,email,password,borrow,wishlist
+0,Sophie,s,s.s@gmail.com,pwd123,3 12;1 13;1 5;3 1;2 8;12 14,
+1,Mei,T,m.t@outlook.com,pwd234,10 2;1 4;6 3,3;5;1
+2,Oyin,Oyin,o.oyin@gmail.com,pwd123,1 7;8 0;3 6;6 15,3;1;2;7
+3,Jin,Wei,j.wei@gmail.com,pass123,12 10;4 9;2 11,1
+4,Wen,Lui,w.lui@gmail.com,pwd123,4 16;8 17,2;3
